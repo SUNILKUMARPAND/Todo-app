@@ -1,0 +1,32 @@
+body {
+  background-color: lightblue;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.App {
+   border-radius: 10px;
+   padding: 20px;
+   text-align:center;
+   width: 350px;
+   margin: 50px auto;
+   background-color: darkseagreen;
+}
+
+button {
+  padding: 4px 16px;
+  margin : 2px 4px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: chocolate;
+}
+
+input {
+  padding: 2px 4px;
+}
+
+ul {
+  margin: 5px auto;
+  padding: 0;
+  width: fit-content;
+}
