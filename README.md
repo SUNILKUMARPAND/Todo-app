@@ -1,16 +1,27 @@
-# React + Vite
+📝 React CRUD Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and efficient Todo application built using React that allows users to create, read, update, and delete tasks.
 
-Currently, two official plugins are available:
+🚀 Features
+Add new todos
+View list of tasks
+Edit/update existing todos
+Delete tasks
+Real-time UI updates
+Simple and clean user interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Technologies Used
+React.js
+JavaScript (ES6+)
+HTML
+CSS
 
-## React Compiler
+📌 How It Works
+Users can add tasks using an input field. Each task is displayed in a list with options to edit or delete. The app dynamically updates the UI using React state management.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+▶️ Getting Started
+Clone the repository
+Run npm install
+Start the app using npm start
+Open in browser: https://todos-crudapp-port.netlify.app/
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
