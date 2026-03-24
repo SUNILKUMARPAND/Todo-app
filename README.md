@@ -20,8 +20,8 @@ CSS
 Users can add tasks using an input field. Each task is displayed in a list with options to edit or delete. The app dynamically updates the UI using React state management.
 
 ▶️ Getting Started
-Clone the repository
-Run npm install
-Start the app using npm start
-Open in browser: https://todos-crudapp-port.netlify.app/
+  1. Clone the repository
+  2. Run npm install
+  3. Start the app using npm start
+  4. Open in browser: https://todos-crudapp-port.netlify.app/
 
